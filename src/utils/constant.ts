@@ -1,0 +1,2 @@
+export const SLACK_SIGNING_SECRET =
+  process.env.RESOLV_SLACK_SIGNING_SECRET ?? "02e8eba5b55a323ecdb4724da6db9e24";
